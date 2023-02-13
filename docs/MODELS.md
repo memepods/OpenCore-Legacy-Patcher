@@ -30,8 +30,8 @@ Regarding OS support, see below:
 | SMBIOS | Year | Supported | Comment |
 | :--- | :--- | :--- | :--- |
 | MacBook1,1 | Mid-2006 | <span style="color:red"> NO </span>  | 32-Bit CPU limitation |
-| MacBook2,1 | Late 2006 | ^^ | 32-Bit Firmware limitation |
-| MacBook3,1 | Late 2007 | ^^ | ^^ |
+| MacBook2,1 | Late 2006 | ^^ | 32-Bit Firmware limitation|
+| MacBook3,1 | Late 2007 | ^^ | Requires SSE4.1 CPU
 | MacBook4,1 | Early 2008 | ^^ | - No GPU Acceleration in Mavericks and newer<br/>- No Keyboard and Trackpad<br/>- No USB |
 | MacBook5,1 | Late 2008 | <span style="color:#30BCD5"> YES </span> | - GPU Acceleration in Public Beta, see current issues ([#108](https://github.com/dortania/OpenCore-Legacy-Patcher/issues/108))<br/> - UHCI/OHCI support in Public Beta, see current issues ([#1021](https://github.com/dortania/OpenCore-Legacy-Patcher/issues/1021))|
 | MacBook5,2 | Early 2009 | ^^ | ^^ |
